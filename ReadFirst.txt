@@ -4,4 +4,6 @@
 3)mappApp.xcodeproj(ขั้นตอนหลังจากนี้ใส่ไว้ให้ใน manual ครับ)
 
 ที่จะส่งจริงๆมีไฟล์ตามนี้ครับ 
--mapApp.zip -HOROP_MANUAL.docx -FinalReport
+-mapApp.zip -HOROP_MANUAL.docx -FinalReport.pdf
+
+***คือไฟล์ Code ทั้งหมด อยู่ใน mapApp.zip ครับ ไฟล์ที่เหลืออาจารย์ไม่ต้องสนใจก็ได้ครับ มัน ชื่อซ้ำจนอัพไม่ได้*****
